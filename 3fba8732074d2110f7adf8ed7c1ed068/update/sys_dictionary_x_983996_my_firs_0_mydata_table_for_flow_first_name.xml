@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-02-20 09:04:20</sys_created_on>
-        <sys_id>235c07b2074d2110f7adf8ed7c1ed02f</sys_id>
         <sys_name>First Name</sys_name>
         <sys_package display_value="My First App" source="x_983996_my_firs_0">3fba8732074d2110f7adf8ed7c1ed068</sys_package>
         <sys_policy/>
