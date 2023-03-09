@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_983996_my_firs_0_mydata_table_for_flow" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_983996_my_firs_0_mydata_table_for_flow" element="NULL" name="x_983996_my_firs_0_mydata_table_for_flow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">266c03b2074d2110f7adf8ed7c1ed057</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-20 09:04:33</sys_created_on>
+            <sys_id>6e6c03b2074d2110f7adf8ed7c1ed058</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-20 09:04:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>first_name</element>
+            <list_id display_value="x_983996_my_firs_0_mydata_table_for_flow" element="NULL" name="x_983996_my_firs_0_mydata_table_for_flow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">266c03b2074d2110f7adf8ed7c1ed057</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-20 09:04:33</sys_created_on>
+            <sys_id>e26c03b2074d2110f7adf8ed7c1ed059</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-20 09:04:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_name</element>
+            <list_id display_value="x_983996_my_firs_0_mydata_table_for_flow" element="NULL" name="x_983996_my_firs_0_mydata_table_for_flow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">266c03b2074d2110f7adf8ed7c1ed057</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-20 09:04:33</sys_created_on>
+            <sys_id>666c03b2074d2110f7adf8ed7c1ed059</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-20 09:04:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mobile</element>
+            <list_id display_value="x_983996_my_firs_0_mydata_table_for_flow" element="NULL" name="x_983996_my_firs_0_mydata_table_for_flow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">266c03b2074d2110f7adf8ed7c1ed057</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-20 09:04:33</sys_created_on>
+            <sys_id>e66c03b2074d2110f7adf8ed7c1ed059</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-20 09:04:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_983996_my_firs_0_mydata_table_for_flow</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-20 09:04:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>266c03b2074d2110f7adf8ed7c1ed057</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_983996_my_firs_0_mydata_table_for_flow</sys_name>
+            <sys_package display_value="My First App" source="x_983996_my_firs_0">3fba8732074d2110f7adf8ed7c1ed068</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My First App">3fba8732074d2110f7adf8ed7c1ed068</sys_scope>
+            <sys_update_name>sys_ui_list_x_983996_my_firs_0_mydata_table_for_flow_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-20 09:04:33</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
